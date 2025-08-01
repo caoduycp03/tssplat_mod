@@ -1,0 +1,4 @@
+# ninja log v5
+2	18684	1752056147000000000	/home/ubuntu/Working/pointmaps/triangle-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	dbc2e2e13df77f26
+3	61401	1752056190000000000	/home/ubuntu/Working/pointmaps/triangle-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	754540659cebec0
+4	313911	1752056442000000000	/home/ubuntu/Working/pointmaps/triangle-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	d690a73f4b6d3195
